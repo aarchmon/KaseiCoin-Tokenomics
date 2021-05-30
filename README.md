@@ -40,6 +40,17 @@ This section entails evidence of successful compilation and deployment of KaseiC
 
 ---
 
+### Local Blockchain Crowdsale Deployment
+
+![Local Blockchain Crowdsale Deployment](./Images/local_blockchain_crowdsale_deployment.png)
+
+---
+
+### Crowdsale Functionality
+
+![Crowdsale Functionality](./Inmages/crowdsale_functionality.png)
+
+---
 
 ## Usage
 
