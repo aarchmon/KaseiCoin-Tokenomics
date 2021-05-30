@@ -1,6 +1,6 @@
 # KaseiCoin Tokenomics 
 
-![Martian Landing](./Images/smart_contract.jpeg)
+![Martian Landing](./Images/mars_landing.png)
 
 ---
 
