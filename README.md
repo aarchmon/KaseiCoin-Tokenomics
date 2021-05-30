@@ -30,7 +30,7 @@ This section entails evidence of successful compilation and deployment of KaseiC
 
 ### KaseiCoin Crowdsale Contract
 
-![KaseiCoin_Crowdsale_Contract](./Images/KaseiCoin_Crowdsale_Contract)
+![KaseiCoin_Crowdsale_Contract](./Images/KaseiCoin_Crowdsale_Contract.png)
 
 ---
 
@@ -43,7 +43,7 @@ This section entails evidence of successful compilation and deployment of KaseiC
 
 ## Usage
 
-Upload the `joint_savings.sol` file into the Remix Ethereum IDE and compile. 
+Upload the `KaseiCoin.sol` and `KaseiCoinCrowdsale.sol` files into the Remix Ethereum IDE and compile. 
 
 ---
 
