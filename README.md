@@ -48,7 +48,7 @@ This section entails evidence of successful compilation and deployment of KaseiC
 
 ### Crowdsale Functionality
 
-![Crowdsale Functionality](./Inmages/crowdsale_functionality.png)
+![Crowdsale Functionality](./Images/crowdsale_functionality.png)
 
 ---
 
